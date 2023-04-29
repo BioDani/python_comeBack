@@ -19,6 +19,11 @@ orders = [
     "customer_name": "Santiago",
     "total": 20,
     "delivered": False,
+  },
+    {
+    "customer_name": "carlos",
+    "total": 20,
+    "delivered": False,
   }
 ]
 
